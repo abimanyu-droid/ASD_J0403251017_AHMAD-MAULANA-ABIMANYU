@@ -19,7 +19,7 @@ print("")
 
 #-----------------------------------
 # Praktikum 1 : Konsep ADT dan File Handling 
-# Lat Dasar 2 : Membaca 
+# Lat Dasar 2 : Membaca Pasing Data
 #-----------------------------------
 
 #membuka data per baris
