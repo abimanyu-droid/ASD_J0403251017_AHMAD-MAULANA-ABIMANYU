@@ -1,0 +1,15 @@
+BRG001,Roti,20 
+BRG002,AirMineral,15 
+BRG003,TehBotol,10
+BRG004,Fanta,12
+BRG005,Cocacola,11
+BRG006,Taro,6
+BRG007,Yupi,30
+BRG008,Cimory,8
+BRG009,TehGelas,14
+BRG010,Chitato,18
+BRG011,Qtela,17
+BRG012,Chocolatos,24
+BRG013,Better,26
+BRG014,BengBeng,9
+BRG015,Milku,27
